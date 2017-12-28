@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inter",
+				"interstitialPanels"
+			],
+			[
+				"ignoredE",
+				"ignoredElement"
+			],
+			[
+				"Pos",
+				"PositionOptions"
+			],
+			[
+				"Rg",
+				"RgbaColor"
+			],
+			[
+				"level",
+				"leveledBackendOut"
+			],
+			[
+				"jw",
+				"ginJwt"
+			],
+			[
+				"bea",
+				"bearerTokenString"
+			],
+			[
+				"S",
+				"StatusBadRequest"
+			],
+			[
+				"filter",
+				"filterByTitle"
+			],
+			[
+				"loadedE",
+				"loadedExtensionsPath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 264.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remote",
+				"Remote: Host Session"
+			],
+			[
+				"u",
+				"npm: Remove/Uninstall Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"sassb",
+				"SassBeautify"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"unin",
+				"npm: Remove/Uninstall Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"npm: run",
+				"npm: Run Script"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 347.0,
+		"history":
+		[
+			"help",
+			"cls",
+			"clear",
+			"cls",
+			"clear",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/U/sites/sr-test"
+	],
+	"file_history":
+	[
+		"/U/sites/chatwtf/prototype/src/pages/Home.vue",
+		"/U/vue/vue-scrollify/src/utils.js",
+		"/U/vue/vue-scrollify/src/MouseScroll.js",
+		"/U/vue/vue-scrollify/src/SwipeScroll.js",
+		"/U/vue/vue-scrollify/src/Scrollify.js",
+		"/U/vue/vue-scrollify/package.json",
+		"/U/vue/vue-scrollify/.babelrc",
+		"/U/sites/chatwtf/prototype/src/main.js",
+		"/U/vue/vue-scrollify/.eslintrc.js",
+		"/U/sites/chatwtf/prototype/.babelrc",
+		"/U/vue/vue-scrollify/src/scrollify.js",
+		"/U/vue/vue-scrollify/index.js",
+		"/U/sites/chatwtf/prototype/src/components/VueSemanticNotify/events.js",
+		"/U/sites/chatwtf/prototype/src/components/VueSemanticNotify/index.js",
+		"/U/sites/chatwtf/prototype/src/auth/index.js",
+		"/U/vue/vue-scroll-reveal/index.js",
+		"/U/vue/vue-plugin-load-script/index.js",
+		"/U/vue/vue-lite-scroll/VueLiteScroll.vue",
+		"/U/vue/vue-directive-hoist/index.js",
+		"/U/vue/vue-scrollify/LICENSE.md",
+		"/U/vue/vue-lite-scroll/package.json",
+		"/U/sites/chatwtf/prototype/src/pages/Dashboard.vue",
+		"/U/sites/chatwtf/prototype/src/pages/Error.vue",
+		"/U/sites/chatwtf/prototype/src/components/ErrorMessage.vue",
+		"/U/sites/chatwtf/prototype/src/router/index.js",
+		"/U/sites/chatwtf/prototype/src/App.vue",
+		"/U/apps/chatwtf/src/store/modules/user.js",
+		"/U/sites/chatwtf/prototype/src/components/dashboard/TopMenu.vue",
+		"/U/sites/chatwtf/prototype/src/pages/dashboard/help/Home.vue",
+		"/U/sites/chatwtf/prototype/src/api/user.js",
+		"/U/sites/chatwtf/prototype/src/pages/dashboard/Loyalty.vue",
+		"/U/sites/chatwtf/prototype/src/store/modules/user.js",
+		"/U/sites/chatwtf/prototype/src/store/modules/routeHistory.js",
+		"/U/sites/chatwtf/prototype/src/pages/Login.vue",
+		"/U/sites/chatwtf/prototype/src/pages/dashboard/Scenes.vue",
+		"/U/sites/chatwtf/prototype/src/components/dashboard/LeftMenu.vue",
+		"/U/sites/chatwtf/prototype/src/components/semantic/Modal.vue",
+		"/U/sites/chatwtf/prototype/src/pages/dashboard/SceneEditor.vue",
+		"/U/sites/chatwtf/prototype/src/components/dashboard/SceneCard.vue",
+		"/U/sites/chatwtf/prototype/src/api/scenes.js",
+		"/U/sites/chatwtf/prototype/src/store/modules/scenes.js",
+		"/U/sites/chatwtf/prototype/src/components/dashboard/CurrencyCard.vue",
+		"/U/sites/chatwtf/prototype/src/store/index.js",
+		"/U/go/src/git.avionx.io/chatwtf/api/overlay_definitions.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/overlay_service.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/router.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/server.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/user_service.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/websocket_server.go",
+		"/U/sites/chatwtf/prototype/README.md",
+		"/U/go/src/git.avionx.io/chatwtf/api/auth_service.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/AuthService.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/UserService.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/ChannelService.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/log.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/routes/UserService.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/routerHandlers.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/routes/user.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/routes/auth.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/messageQueue.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/config.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/router/logger.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/router/router.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/rabbit.go",
+		"/U/go/src/git.avionx.io/chatwtf/api/config.json",
+		"/U/go/src/git.avionx.io/chatwtf/api/routerLogger.go",
+		"/U/go/src/chatwtf/api-server/serverLogger.go",
+		"/U/go/src/chatwtf/api-server/.gitignore",
+		"/U/go/src/chatwtf/api-server/config.json",
+		"/U/go/src/chatwtf/api-server/routeHandlers.go",
+		"/C/Users/james/AppData/Roaming/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/C/Users/james/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/C/Users/james/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/C/Users/james/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/C/Users/james/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/U/go/src/github.com/tserkov/twitch-api/users.go",
+		"/U/go/src/github.com/tserkov/twitch-api/twitch.go",
+		"/U/go/src/chatwtf/api-server/config.go",
+		"/U/go/src/chatwtf/api-server/api-server.go",
+		"/U/go/src/chatwtf/api-server/routes.go",
+		"/U/go/src/gopkg.in/dgrijalva/jwt-go.v2/token.go",
+		"/U/go/src/golang.org/x/net/README",
+		"/U/go/src/gopkg.in/dgrijalva/jwt-go.v2/signing_method.go",
+		"/U/go/src/gopkg.in/dgrijalva/jwt-go.v2/example_test.go",
+		"/U/go/src/chatwtf/api-server/types/types.go",
+		"/U/go/src/github.com/tserkov/twitch-api/twitch_test.go",
+		"/U/go/src/github.com/tserkov/twitch-api/config_test.json",
+		"/U/sites/chatwtf-api/.gitignore",
+		"/U/sites/chatwtf-api/test.js",
+		"/U/sites/chatwtf-api/test/Twitch.js",
+		"/U/sites/chatwtf-api/package.json",
+		"/U/sites/chatwtf-api/test/unit/karma.conf.js",
+		"/U/sites/chatwtf-api/test/unit/index.js",
+		"/U/sites/chatwtf-api/test/unit/specs/Twitch.spec.js",
+		"/U/sites/chatwtf-ui/package.json",
+		"/U/sites/chatwtf-ui/test/unit/index.js",
+		"/U/sites/chatwtf-ui/README.md",
+		"/U/sites/chatwtf-ui/test/unit/karma.conf.js",
+		"/U/sites/chatwtf-api/index.js",
+		"/U/sites/chatwtf-api/lib/twitch.js",
+		"/U/sites/chatwtf-api/node_modules/twitch-api/twitch-api.js",
+		"/U/sites/chatwtf-api/node_modules/request/request.js",
+		"/U/sites/chatwtf-api/node_modules/koa-bodyparser/index.js",
+		"/U/sites/chatwtf-api/lib/log.js",
+		"/U/sites/chatwtf-api/schemas/user.js",
+		"/U/sites/chatwtf-ui/index.html",
+		"/U/sites/chatwtf-ui/src/components/login/Login.vue",
+		"/U/sites/arc-api/index.js",
+		"/U/sites/chatwtf-ui/src/App.vue",
+		"/U/sites/chatwtf-ui/src/components/dashboard/Dashboard.vue",
+		"/U/sites/chatwtf-ui/src/router/index.js",
+		"/U/sites/chatwtf-ui/src/router/Main.vue",
+		"/U/sites/chatwtf-ui/src/main.js",
+		"/U/sites/chatwtf-ui/src/auth.js",
+		"/U/sites/chatwtf-ui/src/store/getters.js",
+		"/U/sites/chatwtf-ui/src/store/plugins.js",
+		"/U/sites/chatwtf-ui/src/store/mutations.js",
+		"/U/sites/chatwtf-ui/src/store/actions.js",
+		"/U/sites/chatwtf-ui/src/store/state.js",
+		"/U/sites/chatwtf-ui/src/store/index.js",
+		"/U/sites/chatwtf-ui/src/components/AppHeader.vue",
+		"/U/sites/chatwtf-ui/src/styles/variables.sass",
+		"/U/sites/chatwtf-ui/static/i/logo.svg",
+		"/U/sites/sbd-ui/src/router/Main.vue",
+		"/U/sites/sbd-ui/src/components/AppHeader.vue",
+		"/U/sites/sbd-ui/src/router/index.js",
+		"/U/sites/sbd-ui/src/main.js",
+		"/U/sites/sbd-ui/src/components/AppFooter.vue"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sizePanels",
+			"touchHandler",
+			"wheelEvent",
+			"scrollify\\.enabled",
+			"utils",
+			"index",
+			"currentIndex",
+			"firstLoad",
+			"portHeight",
+			"calculateP",
+			"firstLoad",
+			"getViewportHeight",
+			"heights",
+			"calculatePositions",
+			"interstitialSection",
+			"utils\\.getViewportHeight",
+			"portHeight",
+			"sizePanels",
+			"outerHeight\\(\\)",
+			"\\$window",
+			"top",
+			"easing",
+			"clear",
+			"Timeout",
+			"refreshTimeout",
+			"in",
+			"refreshTimeout",
+			"locked",
+			"initi",
+			"EventListener",
+			"keydown",
+			"touchstart",
+			"scroll",
+			"resize",
+			"window\\.",
+			"hasLocation",
+			"initi",
+			"initia",
+			"initialised",
+			"hasLocation",
+			"currentIndex",
+			"disabled",
+			"panels",
+			"heights",
+			"util\\.",
+			"^ \\* ",
+			"wheelEvent",
+			"calculatePositions",
+			"hasLocation",
+			"scrolled",
+			"scrollable",
+			"scrolled",
+			"timeoutId",
+			"handleScroll",
+			"handleMouseup",
+			"handleMousedown",
+			"calculateNearest",
+			"samples",
+			"isAccelerating",
+			"scrollSamples",
+			"isAccelerating",
+			"animateScroll",
+			"index",
+			"locked",
+			"scrollTime",
+			"shouldIgnore",
+			"scrollTime",
+			"settings",
+			"mouseScroll",
+			"wheelEvent",
+			"options.distance",
+			"standardScrollElements",
+			"settings",
+			"touchScroll",
+			"timestamp",
+			"direction",
+			"timeout",
+			"timeGap",
+			"touch.end",
+			"timeStamp",
+			"event",
+			"this.touch.touchend",
+			"this.touch.touchmove",
+			"this.touch.touchstart",
+			"this.touches",
+			"swipeScroll",
+			"manualScroll",
+			"utils.getViewportHeight",
+			"getViewportHeight",
+			"eshTimeout",
+			"timeoutId2",
+			"util",
+			"options",
+			"component",
+			"names",
+			"panels",
+			"names",
+			"move\\(",
+			"move",
+			"init",
+			"getPortHeight",
+			"factory",
+			"if\\(",
+			"getportHeight",
+			"\\n +console\\.debug\\([^)]+\\); // eslint-disable-line$",
+			"SUCCESS",
+			"name",
+			"rgba(159, 188, 191, 0.4)",
+			"12",
+			"24",
+			"new Error(e.body.error || DEFAULT_ERROR_MESSAGE)",
+			"json",
+			"all",
+			"overlay",
+			"group",
+			"empty",
+			"os",
+			"    ",
+			"time",
+			"clientID",
+			"Method\\{",
+			"Method",
+			"expect\\(([^)]+)\\)\\.to",
+			"self",
+			"gzip",
+			"readResponseBody",
+			"body",
+			"headers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"this.enabled",
+			"getViewportHeight",
+			"offsetHeight",
+			"enabled",
+			"utils.",
+			"",
+			"this.scrolled",
+			"this.scrollable",
+			"scrollHandler",
+			"mouseupHandler",
+			"mousedownHandler",
+			"this.scrollSamples",
+			"scrollify.options",
+			"this",
+			"options.minDistance",
+			"scrollify.options",
+			"enableSwiping",
+			"delay",
+			"touch.active",
+			"timestamp",
+			"this.touch.end",
+			"this.touch.move",
+			"this.touch.start",
+			"this.touch",
+			"this",
+			"mouseScroll",
+			"util.getViewportHeight",
+			"utils.getViewportHeight",
+			"refreshTimeout",
+			"panels",
+			"getViewportHeight",
+			"if (",
+			"getPortHeight",
+			"",
+			"${color}",
+			"${size}",
+			"${size * 2}",
+			"deriveError(e)",
+			"scenes",
+			"\\t",
+			"clientId",
+			"Service{",
+			"Service",
+			"$1.should",
+			",\\n",
+			"",
+			": ",
+			"+",
+			"$1",
+			"+",
+			"$1",
+			"refreshToken",
+			"storeToken",
+			"retry",
+			"isInvalidToken",
+			"path",
+			"\\t",
+			"cubic-bezier(0.650, 0.000, 0.450, 1.000)",
+			"#7ac142",
+			"\\t",
+			"Titillium Web",
+			"VT323",
+			"Unica One",
+			"Kelly Slab",
+			"\\t",
+			"key",
+			"/static/i/favicons/",
+			"slide-down",
+			"",
+			"\"",
+			"{\"name\":\"$1\",\"factory\":\"$2\",\"depends\":\"$3\"},",
+			"\"",
+			"#hamburger",
+			"#content",
+			"#masthead > section",
+			"#site-menu",
+			"header > nav",
+			"/bower_components/semantic/dist/",
+			"/semantic/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://U:\\go\\src\\chatwtf\\api-server":
+	{
+		"height": 104.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 92.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 92.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 92.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "sr-test.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
