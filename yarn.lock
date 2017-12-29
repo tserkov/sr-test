@@ -5575,9 +5575,9 @@ vue-router@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.0.1.tgz#d9b05ad9c7420ba0f626d6500d693e60092cc1e9"
 
-vue-scroll-reveal@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/vue-scroll-reveal/-/vue-scroll-reveal-1.0.3.tgz#2692548ac5f5cdc46f5dffe5dfd5f9a3115b1176"
+vue-scroll-reveal@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/vue-scroll-reveal/-/vue-scroll-reveal-1.0.5.tgz#5e09f7cf0e25cc1030abe866ecfddb9b4260b5ff"
   dependencies:
     scrollreveal "^3.3.6"
 

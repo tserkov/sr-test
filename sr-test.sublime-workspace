@@ -146,11 +146,24 @@
 	},
 	"expanded_folders":
 	[
-		"/U/sites/sr-test"
+		"/U/sites/sr-test",
+		"/U/sites/sr-test/config",
+		"/U/sites/sr-test/src",
+		"/U/sites/sr-test/src/components",
+		"/U/sites/sr-test/src/router"
 	],
 	"file_history":
 	[
+		"/U/vue/vue-scroll-reveal/package.json",
+		"/U/sites/sr-test/src/main.js",
+		"/U/sites/sr-test/.gitignore",
+		"/U/sites/sr-test/src/components/PageOne.vue",
+		"/U/sites/sr-test/src/components/PageTwo.vue",
+		"/U/sites/sr-test/src/App.vue",
+		"/U/sites/sr-test/src/router/index.js",
 		"/U/sites/chatwtf/prototype/src/pages/Home.vue",
+		"/U/sites/sr-test/config/index.js",
+		"/U/sites/sr-test/src/components/HelloWorld.vue",
 		"/U/vue/vue-scrollify/src/utils.js",
 		"/U/vue/vue-scrollify/src/MouseScroll.js",
 		"/U/vue/vue-scrollify/src/SwipeScroll.js",
@@ -268,16 +281,7 @@
 		"/U/sites/chatwtf-ui/src/store/plugins.js",
 		"/U/sites/chatwtf-ui/src/store/mutations.js",
 		"/U/sites/chatwtf-ui/src/store/actions.js",
-		"/U/sites/chatwtf-ui/src/store/state.js",
-		"/U/sites/chatwtf-ui/src/store/index.js",
-		"/U/sites/chatwtf-ui/src/components/AppHeader.vue",
-		"/U/sites/chatwtf-ui/src/styles/variables.sass",
-		"/U/sites/chatwtf-ui/static/i/logo.svg",
-		"/U/sites/sbd-ui/src/router/Main.vue",
-		"/U/sites/sbd-ui/src/components/AppHeader.vue",
-		"/U/sites/sbd-ui/src/router/index.js",
-		"/U/sites/sbd-ui/src/main.js",
-		"/U/sites/sbd-ui/src/components/AppFooter.vue"
+		"/U/sites/chatwtf-ui/src/store/state.js"
 	],
 	"find":
 	{
